@@ -21,7 +21,7 @@ public class PerimeterAssignmentRunner {
     }
 
     public int getNumPoints (Shape s) {
-        // Put code here
+        // jfwoeifj oiwejpfp woir
         return 0;
     }
 
